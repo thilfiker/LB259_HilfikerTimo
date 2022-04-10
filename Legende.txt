@@ -1,0 +1,16 @@
+tournament
+
+0 = Friendly
+1 = FIFA World Cup
+2 = UEFA Euro
+
+neutral 
+
+0 = WAHR
+1 = FALSCH
+
+homeResult
+
+-1 = Niederlage
+ 0 = Unentschieden
+ 1 = Sieg
